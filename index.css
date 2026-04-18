@@ -31,3 +31,12 @@
         color: rgb(48, 133, 224);
 
     }
+
+    .container {
+        padding: 0px 50px;
+
+    }
+
+    nav a:hover {
+      color: blue;
+    }
