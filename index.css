@@ -1,9 +1,13 @@
     body {
        color: aliceblue;
         background-color: rgb(66, 137, 224);
+        font-family: Arial, Helvetica, sans-serif;
     }
 
     ul {
         display: flex;
         justify-content: space-between;
+        list-style-type: none;
+        align-items: center;
+        padding: 16px;
     }
