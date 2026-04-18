@@ -2,3 +2,8 @@
        color: aliceblue;
         background-color: rgb(25, 89, 167);
     }
+
+    ul {
+        display: flex;
+        justify-content: space-between;
+    }
